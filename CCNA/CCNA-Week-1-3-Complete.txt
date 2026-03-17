@@ -1,0 +1,63 @@
+# CCNA Week 1-3 Complete Content
+
+## Week 1: Introduction to Networking
+### Basics of Networking
+- Understanding networks and their purpose.
+- **Real-world Example:** Comparing a network to a postal system that delivers packages (data) to different locations.
+- **Hinglish Explanation:** Networking samajhna jaise mail bhejne jaisa hai. Aap apne dost ko ek letter bhejte hain, waise hi data networks pe travel karta hai.
+
+### OSI Model
+- Overview of the OSI model layers (Application, Presentation, Session, Transport, Network, Data Link, Physical).
+- **Real-world Example:** How each layer works together to facilitate communication (like a relay race).
+- **Hinglish Explanation:** OSI Model ek tareeka hai samjhne ka kaise data travel karta hai sab layers ke through.
+
+### Practical Labs
+- Setting up a basic network using routers and switches.
+- Configuring IP addresses on devices.
+
+### Daily Quizzes
+- Quiz questions on basic networking concepts.
+
+---
+
+## Week 2: IP Addressing
+### Understanding IP Addressing
+- Introduction to IP addresses (IPv4 and IPv6).
+- Importance of subnetting.
+- **Real-world Example:** IP addresses are like house addresses, they help identify a unique location.
+- **Hinglish Explanation:** IP address waise hai jaise aapke ghar ka address. Aapke ghar pe koi parcel bhejna hai, toh address toh chahiye hoga na?
+
+### Subnetting Concepts
+- Basics of subnetting and CIDR.
+- **Real-world Example:** Dividing a large network into smaller segments for better management.
+- **Hinglish Explanation:** Subnetting se hum bade network ko chote chote hisse me baant sakte hain. Jaise ek bada classroom chaar chote group me baantna.
+
+### Practical Labs
+- Configuring subnets in a lab environment.
+
+### Daily Quizzes
+- Quiz questions on IP addressing and subnetting.
+
+---
+
+## Week 3: Routing Fundamentals
+### Introduction to Routing
+- Basics of routing and its necessity in networking.
+- **Real-world Example:** Routing as traffic director, guiding data to its destination.
+- **Hinglish Explanation:** Routing waise hai jaise traffic cop, jo data ko sahi raste se bhejta hai.
+
+### Static vs Dynamic Routing
+- Understanding the differences.
+- **Real-world Example:** Static routes like fixed bus routes, dynamic routes change based on traffic.
+- **Hinglish Explanation:** Static routing waise hai jaise aapka fixed rasta. Dynamic routing waise hai jaise traffic ke hisab se raste badalte hain.
+
+### Routing Protocols Overview
+- Introduction to RIP, OSPF, and EIGRP.
+- **Real-world Example:** How these protocols work to find the best path for data.
+- **Hinglish Explanation:** Ye routing protocols data ki best path dhundne me help karte hain jaise ek navigator in a car.
+
+### Practical Labs
+- Implementing RIP and OSPF in a lab setup.
+
+### Daily Quizzes
+- Quiz questions on routing fundamentals and protocols.
